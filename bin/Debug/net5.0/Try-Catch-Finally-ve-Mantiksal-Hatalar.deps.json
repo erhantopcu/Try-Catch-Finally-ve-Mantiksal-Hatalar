@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Try-Catch-Finally-ve-Mantiksal-Hatalar/1.0.0": {
+        "runtime": {
+          "Try-Catch-Finally-ve-Mantiksal-Hatalar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Try-Catch-Finally-ve-Mantiksal-Hatalar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

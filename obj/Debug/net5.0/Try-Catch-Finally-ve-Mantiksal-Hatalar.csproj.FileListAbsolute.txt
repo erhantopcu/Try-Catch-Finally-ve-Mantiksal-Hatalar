@@ -1,0 +1,16 @@
+C:\Users\erhnt\Desktop\Pratikler\Try-Catch-Finally-ve-Mantiksal-Hatalar\bin\Debug\net5.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.exe
+C:\Users\erhnt\Desktop\Pratikler\Try-Catch-Finally-ve-Mantiksal-Hatalar\bin\Debug\net5.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.deps.json
+C:\Users\erhnt\Desktop\Pratikler\Try-Catch-Finally-ve-Mantiksal-Hatalar\bin\Debug\net5.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.runtimeconfig.json
+C:\Users\erhnt\Desktop\Pratikler\Try-Catch-Finally-ve-Mantiksal-Hatalar\bin\Debug\net5.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.runtimeconfig.dev.json
+C:\Users\erhnt\Desktop\Pratikler\Try-Catch-Finally-ve-Mantiksal-Hatalar\bin\Debug\net5.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.dll
+C:\Users\erhnt\Desktop\Pratikler\Try-Catch-Finally-ve-Mantiksal-Hatalar\bin\Debug\net5.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.pdb
+C:\Users\erhnt\Desktop\Pratikler\Try-Catch-Finally-ve-Mantiksal-Hatalar\obj\Debug\net5.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.csproj.AssemblyReference.cache
+C:\Users\erhnt\Desktop\Pratikler\Try-Catch-Finally-ve-Mantiksal-Hatalar\obj\Debug\net5.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erhnt\Desktop\Pratikler\Try-Catch-Finally-ve-Mantiksal-Hatalar\obj\Debug\net5.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.AssemblyInfoInputs.cache
+C:\Users\erhnt\Desktop\Pratikler\Try-Catch-Finally-ve-Mantiksal-Hatalar\obj\Debug\net5.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.AssemblyInfo.cs
+C:\Users\erhnt\Desktop\Pratikler\Try-Catch-Finally-ve-Mantiksal-Hatalar\obj\Debug\net5.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.csproj.CoreCompileInputs.cache
+C:\Users\erhnt\Desktop\Pratikler\Try-Catch-Finally-ve-Mantiksal-Hatalar\obj\Debug\net5.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.dll
+C:\Users\erhnt\Desktop\Pratikler\Try-Catch-Finally-ve-Mantiksal-Hatalar\obj\Debug\net5.0\refint\Try-Catch-Finally-ve-Mantiksal-Hatalar.dll
+C:\Users\erhnt\Desktop\Pratikler\Try-Catch-Finally-ve-Mantiksal-Hatalar\obj\Debug\net5.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.pdb
+C:\Users\erhnt\Desktop\Pratikler\Try-Catch-Finally-ve-Mantiksal-Hatalar\obj\Debug\net5.0\Try-Catch-Finally-ve-Mantiksal-Hatalar.genruntimeconfig.cache
+C:\Users\erhnt\Desktop\Pratikler\Try-Catch-Finally-ve-Mantiksal-Hatalar\obj\Debug\net5.0\ref\Try-Catch-Finally-ve-Mantiksal-Hatalar.dll
